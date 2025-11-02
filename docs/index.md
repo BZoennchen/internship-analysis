@@ -15,8 +15,8 @@ We split each document into (overlapping) sliding windows and then apply topic m
 This gave us an overview of the *semantic* content of the reports.
 
 - [Extracted Sectors for Informatics and Design](./fig_win_de)
-- [Extracted Sectors for Digital Engineering](./fig_sectors_de.html)
-- [Extracted Sectors for Geodata Science](./fig_sectors_gs.html)
+- [Extracted Sectors for Digital Engineering](./fig_win_de.html)
+- [Extracted Sectors for Geodata Science](./fig_win_gs.html)
 
 
 ## Sectors of Internship Reports 
