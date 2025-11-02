@@ -14,7 +14,7 @@ Please refer to the paper when interpreting these plots.
 We split each document into (overlapping) sliding windows and then apply topic modeling on these chunks of text.
 This gave us an overview of the *semantic* content of the reports.
 
-- [Informatics and Design](./fig_win_de)
+- [Informatics and Design](./fig_win_id.html)
 - [Digital Engineering](./fig_win_de.html)
 - [Geodata Science](./fig_win_gs.html)
 
