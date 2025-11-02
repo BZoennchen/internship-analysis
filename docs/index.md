@@ -9,6 +9,20 @@ To preserve privacy, all internship content was fully anonymized prior to analys
 
 Please refer to the paper when interpreting these plots.
 
+## Topics of Internship Reports
+
+We split each document into (overlapping) sliding windows and then apply topic modeling on these chunks of text.
+This gave us an overview of the *semantic* content of the reports.
+
+- [Extracted Sectors for Informatics and Design](./fig_win_de)
+- [Extracted Sectors for Digital Engineering](./fig_sectors_de.html)
+- [Extracted Sectors for Geodata Science](./fig_sectors_gs.html)
+
+
+## Sectors of Internship Reports 
+
+These sectors where extracted by ``gpt-4o-mini``.
+
 - [Extracted Sectors for Informatics and Design](./fig_sectors_id.html)
 - [Extracted Sectors for Digital Engineering](./fig_sectors_de.html)
 - [Extracted Sectors for Geodata Science](./fig_sectors_gs.html)
