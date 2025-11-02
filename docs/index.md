@@ -9,4 +9,6 @@ To preserve privacy, all internship content was fully anonymized prior to analys
 
 Please refer to the paper when interpreting these plots.
 
+- [Extracted Sectors for Informatics and Design](./fig_sectors_id.html)
 - [Extracted Sectors for Digital Engineering](./fig_sectors_de.html)
+- [Extracted Sectors for Geodata Science](./fig_sectors_gs.html)
