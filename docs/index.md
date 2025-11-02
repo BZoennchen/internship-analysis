@@ -14,15 +14,22 @@ Please refer to the paper when interpreting these plots.
 We split each document into (overlapping) sliding windows and then apply topic modeling on these chunks of text.
 This gave us an overview of the *semantic* content of the reports.
 
-- [Extracted Sectors for Informatics and Design](./fig_win_de)
-- [Extracted Sectors for Digital Engineering](./fig_win_de.html)
-- [Extracted Sectors for Geodata Science](./fig_win_gs.html)
+- [Informatics and Design](./fig_win_de)
+- [Digital Engineering](./fig_win_de.html)
+- [Geodata Science](./fig_win_gs.html)
 
+## Tasks of Internship Reports 
+
+These tasks where extracted by ``gpt-4o-mini``.
+
+- [Informatics and Design](./fig_tasks_id.html)
+- [Digital Engineering](./fig_tasks_de.html)
+- [Geodata Science](./fig_tasks_gs.html)
 
 ## Sectors of Internship Reports 
 
 These sectors where extracted by ``gpt-4o-mini``.
 
-- [Extracted Sectors for Informatics and Design](./fig_sectors_id.html)
-- [Extracted Sectors for Digital Engineering](./fig_sectors_de.html)
-- [Extracted Sectors for Geodata Science](./fig_sectors_gs.html)
+- [Informatics and Design](./fig_sectors_id.html)
+- [Digital Engineering](./fig_sectors_de.html)
+- [Geodata Science](./fig_sectors_gs.html)
